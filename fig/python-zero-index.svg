@@ -1,4 +1,7 @@
 <svg viewBox="0 0 1150 183.2" xmlns="http://www.w3.org/2000/svg">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700');
+</style> 
   <g fill-opacity=".25">
     <!-- vertical rectangles showing columns -->
     <rect x="150" y="54" height="130" rx="8" width="28" fill="#ec008c" stroke="#ec008c"/>
@@ -11,7 +14,7 @@
     <rect x="142.1" y="145.4" width="147.7" height="29.8" style="fill: #662d91;"/>
   </g>
 
-  <g font-family="UbuntuMono-Bold, Ubuntu Mono" font-size="34.6" font-weight="700">
+  <g font-family="Ubuntu Mono" font-size="34.6" font-weight="700">
     <!-- column indices: 0, 1, 2 -->
     <text fill="#ec008c" x="155" y="29">0</text>
     <text fill="#f7941d" x="207" y="29">1</text>
@@ -32,7 +35,7 @@
   <path d="m312.3 76.7 6.7-3.8 6.6-3.9v7.7 7.8l-6.6-3.9z" fill="#008a43"/>
   <path d="m312.3 160.3 6.7-3.8 6.6-3.9v7.7 7.8l-6.6-3.9z" fill="#662d91"/>
 
-  <g font-family="UbuntuMono-Bold, Ubuntu Mono" font-size="34.6" font-weight="700">
+  <g font-family="Ubuntu Mono" font-size="34.6" font-weight="700">
     <!--
       data = [[A, B, C]
               [D, E, F]
